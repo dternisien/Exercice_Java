@@ -43,6 +43,11 @@ public class RollerCoster {
                     }
                     System.out.println("Tour "+ i +" : Groupe 1 rentre" + Arrays.toString(etat_file2));
                 }
-            }
         }
+    }
+
+    public void rollercoster(){
+        
+    }
+
 }

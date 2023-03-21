@@ -3,9 +3,6 @@ import java.util.Arrays;
 public class Exercice12 {
 
     public static void main(String[] args) {
-        triBulle();
-    }
-    public static void triBulle(){
         double[] nombres = new double[]{16, 52, 35, 96, 14, 84};
         double[] result = nombres.clone();
         boolean trier = false;
@@ -23,3 +20,4 @@ public class Exercice12 {
         System.out.println(Arrays.toString(result));
     }
 }
+
